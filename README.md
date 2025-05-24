@@ -6,4 +6,4 @@ View detailed recipe information
 
 Simple and intuitive UI
 
-Built using Flutter for Android devices
+Built using Flutter for Android,IOS,Desktop devices
